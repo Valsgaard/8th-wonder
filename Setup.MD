@@ -8,7 +8,7 @@ Meaning that while we have a very small glimpse into what the current requiremen
 
 So that being said, we'll make a simple setup and try and get trough as much as possible with it, without getting too bogged down by the details.
 
-In the Setup.jpg you can find a small diagram of the main domain. It's the same you would get by googling "CQRS", as there really isn't much to draw a diagram over with the current level of information.
+You can find a small diagram of the main domain [here](Setup.jpg). It's the same you would get by googling "CQRS", as there really isn't much to draw a diagram over with the current level of information.
 
 ## Hosting
 
